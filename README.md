@@ -1,4 +1,4 @@
-# snflk_mini_proj4_validation_modes_copy_options
+# snowflake_proj4_validation_modes_copy_options
 
 TASK 1:- Using Custom File Formats with the COPY Command
 Use the demo Warehouse: Ensure you are using the demo warehouse for this assignment.
